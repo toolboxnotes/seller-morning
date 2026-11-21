@@ -417,3 +417,14 @@ with open_session() as page:
 | 1.2.0 | 2026-11-06 | 프로그램 이름을 **SellerMorning**으로 변경(창 제목·바로가기·알림·패키지 이름). 설정·로그인·비밀값 폴더(`AmazonAIProject`)는 그대로라 다시 설정할 필요 없음 |
 | 1.1.0 | 2026-11-05 | 버전별 패키지 관리(`release.bat` · Mac `release.command`): 만들기 · 목록 · 예전 버전으로 되돌리기 |
 | 1.0.0 | 2026-11-05 | 첫 버전 번호. 계정 상태 · 재고 · 주문 · 비즈니스 · 광고 수집·제안 · Listing 점검 · SP-API(할 일·Buy Box·퍼널·재무·보상) · 리스팅·가격 수정(확인 후 적용·되돌리기) · 매일 실행·오늘의 요약 · Windows/Mac · 영·한·중 화면 · 판매자 정보는 설정에만 저장 · Excel 수식 주입 방지 |
+
+## 라이선스 (License)
+
+[PolyForm Noncommercial License 1.0.0](LICENSE)
+
+- 개인적·비상업적 용도로는 자유롭게 사용·수정·공유할 수 있습니다.
+- **상업적 용도로는 사용할 수 없습니다.** (유료 서비스·판매·회사 업무에 넣어 수익을 내는 경우 등)
+- 상업적 사용이 필요하면 따로 연락해 주세요.
+
+This project is free for personal, noncommercial use. Commercial use is not allowed.
+For a commercial license, please contact the author.
