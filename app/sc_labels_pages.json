@@ -1,0 +1,2406 @@
+{
+"+Add": [
+"+등록",
+"+添加"
+],
+"0 stars": [
+"0 별 여러 개",
+"0 星级"
+],
+"1 star": [
+"1 별 1개",
+"1 星级"
+],
+"10 results per page": [
+"페이지당 결과 10개",
+"每页 10 个搜索结果"
+],
+"100 results per page": [
+"페이지당 결과 100개",
+"每页 100 个搜索结果"
+],
+"1D Shipping Speed": [
+"1일 배송 속도",
+"次日达配送速度"
+],
+"2 stars": [
+"2 별 여러 개",
+"2 星级"
+],
+"25 results per page": [
+"페이지당 결과 25개",
+"每页 25 个搜索结果"
+],
+"2D Shipping Speed": [
+"2일 배송 속도",
+"隔日达配送速度"
+],
+"3 stars": [
+"3 별 여러 개",
+"3 星级"
+],
+"4 stars": [
+"4 별 여러 개",
+"4 星级"
+],
+"5 stars": [
+"5 별 여러 개",
+"5 星级"
+],
+"50 results per page": [
+"페이지당 결과 50개",
+"每页 50 个搜索结果"
+],
+"ASIN Count": [
+"ASIN 개수",
+"ASIN 数量"
+],
+"ASIN Price (Median)": [
+"ASIN 가격(중간)",
+"ASIN 价格（中位数）"
+],
+"ASIN Share": [
+"ASIN 점유율",
+"ASIN 份额"
+],
+"ASIN Title": [
+"ASIN의 상품 이름",
+"ASIN 商品名称"
+],
+"ASIN View": [
+"ASIN 조회",
+"ASIN 视图"
+],
+"ASIN, Category": [
+"ASIN, 카테고리",
+"ASIN、分类"
+],
+"Access a canvas": [
+"캔버스 액세스",
+"访问画布"
+],
+"Account Health Assurance": [
+"어카운트 헬스 보증",
+"账户状况保障计划"
+],
+"Account Health Healthy": [
+"어카운트 헬스 정상",
+"账户状况 良好"
+],
+"Account Health Leave Feedback": [
+"계정 상태 피드백 남기기",
+"账户状况 发表反馈"
+],
+"Account Health News": [
+"어카운트 헬스 뉴스",
+"账户状况新闻"
+],
+"Account Health Rating": [
+"어카운트 헬스 등급",
+"账户状况评级"
+],
+"Account access & settings": [
+"계정 액세스 및 설정",
+"账户访问和设置"
+],
+"Account health": [
+"어카운트 헬스",
+"账户状况"
+],
+"Action Center": [
+"작업 센터",
+"操作中心"
+],
+"Actions": [
+"조치",
+"操作"
+],
+"Active Listings Report": [
+"활성 리스팅 보고서",
+"在售商品报告"
+],
+"Active status : Enabled": [
+"활성 상태 : 활성화됨",
+"进行中 : 已启用"
+],
+"Add a product": [
+"상품 개별 등록",
+"添加新商品"
+],
+"Add a variation": [
+"선택사항 추가",
+"添加一个变体"
+],
+"Add another condition": [
+"다른 상품 상태 추가",
+"添加其他状况"
+],
+"Add columns": [
+"열 추가",
+"添加列"
+],
+"Add or remove order report columns": [
+"주문 보고서 열 추가 또는 제거",
+"添加或删除订单报告列"
+],
+"Add products": [
+"상품 등록",
+"添加商品"
+],
+"Add to your favorite reports": [
+"즐겨찾는 보고서에 추가",
+"添加到您的收藏报告"
+],
+"Additional comments (optional)": [
+"추가 의견(선택 사항)",
+"其他备注（可选）"
+],
+"Administration": [
+"관리",
+"管理"
+],
+"Ads console": [
+"광고 콘솔",
+"广告控制台"
+],
+"Ads planner": [
+"광고 플래너",
+"广告策划工具"
+],
+"Advertise listing": [
+"리스팅 광고",
+"推广商品"
+],
+"Aged & Aging Inventory Summary": [
+"장기 및 장기 예정 재고 요약",
+"超龄库存和即将超龄库存汇总"
+],
+"Aggregate report by location": [
+"위치별 보고서 집계",
+"按位置汇总报告"
+],
+"Aggregate report by time period": [
+"기간별 보고서 집계",
+"按时间段汇总报告"
+],
+"All": [
+"전체",
+"全部"
+],
+"All Issues": [
+"모든 문제",
+"所有问题"
+],
+"All Listings Report": [
+"전체 리스팅 보고서",
+"所有商品报告"
+],
+"All Orders": [
+"모든 주문",
+"所有订单"
+],
+"All tools": [
+"모든 도구",
+"所有工具"
+],
+"Amazon": [
+"아마존",
+"亚马逊"
+],
+"Amazon Ads Academy": [
+"Amazon Ads Academy",
+"亚马逊广告学习在线"
+],
+"Amazon Advertising Agreement": [
+"아마존 광고 약정서",
+"亚马逊广告协议"
+],
+"Amazon Attribution": [
+"아마존 어트리뷰션",
+"亚马逊引流洞察"
+],
+"Amazon Autos Settings": [
+"아마존 Autos 설정",
+"Amazon Autos 设置"
+],
+"Amazon Fulfillment Reports": [
+"아마존 주문 처리 보고서",
+"亚马逊配送报告"
+],
+"Amazon Marketing Cloud": [
+"아마존 마케팅 클라우드",
+"亚马逊营销云"
+],
+"Amazon Order Id": [
+"아마존 주문 ID",
+"亚马逊订单编号"
+],
+"Amazon Services Business Solutions Agreement": [
+"아마존 서비시즈 비즈니스 솔루션 약정서",
+"亚马逊服务商业解决方案协议"
+],
+"Amazon-fulfilled Inventory Report": [
+"아마존 주문 처리 재고 보고서",
+"亚马逊配送的库存报告"
+],
+"Analyze for FBA": [
+"Fulfillment By Amazon(아마존 주문 처리 서비스) 분석",
+"针对亚马逊物流进行分析"
+],
+"Analyze reviews": [
+"리뷰 분석",
+"分析评论"
+],
+"Any": [
+"전체",
+"任何状况"
+],
+"Apply": [
+"적용",
+"应用"
+],
+"Ask Seller Assistant": [
+"셀러 지원 담당자에게 문의",
+"询问卖家助手"
+],
+"Available": [
+"사용 가능",
+"可售"
+],
+"Available: High to Low": [
+"사용 가능: 높은 순",
+"可售： 从高到低"
+],
+"Available: Low to High": [
+"사용 가능: 낮은 순",
+"可售： 从低到高"
+],
+"Awareness Customers": [
+"인지 고객",
+"认知买家"
+],
+"Batch ID": [
+"배치 ID",
+"批编号"
+],
+"Billing": [
+"청구",
+"账单"
+],
+"Brand Count": [
+"브랜드 개수",
+"品牌数量"
+],
+"Brand Price (Median)": [
+"브랜드 가격(중앙값)",
+"品牌价格（中位数）"
+],
+"Brand Share": [
+"브랜드 점유율",
+"品牌占有率"
+],
+"Brand Stores": [
+"브랜드 스토어",
+"品牌旗舰店"
+],
+"Brand analytics": [
+"브랜드 분석",
+"品牌分析"
+],
+"Brand content": [
+"브랜드 콘텐츠",
+"品牌内容"
+],
+"Brand impression share": [
+"브랜드 노출 점유율",
+"品牌展示量份额"
+],
+"Brand lift studies": [
+"브랜드 광고 효과 연구",
+"品牌提升洞察研究"
+],
+"Brand metrics": [
+"브랜드 메트릭",
+"品牌指标"
+],
+"Brand profiles": [
+"브랜드 프로필",
+"品牌档案"
+],
+"Branded Search Customers": [
+"브랜드 검색 고객",
+"执行过品牌搜索的买家"
+],
+"Branded Search Ratio": [
+"브랜드 검색 비율",
+"品牌搜索比率"
+],
+"Breadcrumbs": [
+"브레드크럼",
+"面包屑"
+],
+"Business Hour Delivery Rate": [
+"영업시간 배송률",
+"营业时间送达率"
+],
+"CARRIER_DAMAGED": [
+"CARRIER_DAMAGED(배송사에 의한 파손)",
+"因承运人导致的残损"
+],
+"CTR": [
+"CTR",
+"点击率"
+],
+"CUSTOMER_DAMAGED": [
+"CUSTOMER_DAMAGED(고객에 의한 파손)",
+"因买家导致的残损"
+],
+"Calculate revenue": [
+"매출 계산",
+"计算收入"
+],
+"Calendar": [
+"달력",
+"日历"
+],
+"Campaign budget amount": [
+"캠페인 예산 금액",
+"广告活动预算金额"
+],
+"Campaign name": [
+"캠페인 이름",
+"广告活动名称"
+],
+"Campaigns": [
+"캠페인",
+"广告活动"
+],
+"Can't find page": [
+"페이지를 찾을 수 없음",
+"找不到页面"
+],
+"Canada": [
+"캐나다",
+"加拿大"
+],
+"Cancel": [
+"취소",
+"取消"
+],
+"Cancelled Listings Report": [
+"취소 리스팅 보고서",
+"已取消商品报告"
+],
+"Card actions": [
+"카드 조치",
+"卡片操作"
+],
+"Cart Add Rate": [
+"장바구니 추가율",
+"加入购物车次数"
+],
+"Cart Adds": [
+"장바구니 추가 횟수",
+"加入购物车的商品数量"
+],
+"Category Listings Report": [
+"카테고리 리스팅 보고서",
+"分类商品报告"
+],
+"Change default selling experience to Classic Seller Central?": [
+"기본 판매 환경을 클래식 셀러 센트럴로 변경하시겠습니까?",
+"将默认销售体验更改为传统卖家平台？"
+],
+"Change default selling experience to New Seller Central?": [
+"기본 판매 환경을 신규 셀러 센트럴로 변경하시겠습니까?",
+"将默认销售体验更改为新版卖家平台？"
+],
+"Change shipping template": [
+"배송 템플릿 변경",
+"更改配送模板"
+],
+"Change to Fulfilled by Merchant": [
+"판매자 주문 처리로 변경",
+"转换为“卖家自配送”"
+],
+"Chart screen reader information, .": [
+"차트 화면 리더 정보, .",
+"图表屏幕阅读器信息，。"
+],
+"Chart. Interactive chart.": [
+"차트. 인터랙티브 차트.",
+"图表。 互动式图表。"
+],
+"Chat history": [
+"채팅 기록",
+"聊天记录"
+],
+"Classic Seller Central": [
+"클래식 셀러 센트럴",
+"传统卖家平台"
+],
+"Click Rate": [
+"클릭률",
+"点击率"
+],
+"Click Rate (CTR)": [
+"CTR(클릭률)",
+"点击率 (CTR)"
+],
+"Click Share": [
+"클릭 점유율",
+"点击占比"
+],
+"Close": [
+"닫기",
+"关闭"
+],
+"Close listing": [
+"리스팅 마감",
+"下架商品"
+],
+"Close menu": [
+"메뉴 닫기",
+"关闭菜单"
+],
+"Closed": [
+"종료됨",
+"已停售"
+],
+"Collapse": [
+"축소",
+"折叠"
+],
+"Columns": [
+"열",
+"列"
+],
+"Compliment": [
+"칭찬",
+"正面"
+],
+"Conditions of use": [
+"사용 조건",
+"使用条款"
+],
+"Consideration": [
+"고려",
+"考虑"
+],
+"Contact Us": [
+"아마존에 연락하기",
+"联系我们"
+],
+"Conversion Rate": [
+"전환율",
+"转化率"
+],
+"Conversion Share": [
+"전환 점유율",
+"转化率份额"
+],
+"Copy listing": [
+"리스팅 복사",
+"复制商品信息"
+],
+"Create Sponsored Display ad": [
+"Sponsored Display 광고 생성",
+"创建展示型推广广告"
+],
+"Create Sponsored Display ads": [
+"Sponsored Display 광고 생성",
+"创建展示型推广广告"
+],
+"Create a Seller Assistant Workflow": [
+"셀러 어시스턴트 워크플로 생성",
+"创建卖家助手工作流程"
+],
+"Create campaign": [
+"캠페인 생성하기",
+"创建广告活动"
+],
+"Create fulfillment order": [
+"주문 처리 주문 생성",
+"创建配送订单"
+],
+"Create removal order": [
+"재고 처분 주문 생성",
+"创建移除订单"
+],
+"Create report": [
+"보고서 생성",
+"创建报告"
+],
+"Creative Studio": [
+"크리에이티브 스튜디오",
+"创意工作室"
+],
+"Creative assets": [
+"크리에이티브 애셋",
+"创意素材"
+],
+"Creative tools": [
+"크리에이티브 도구",
+"创意工具"
+],
+"Custom Inventory Reports": [
+"재고 보고서 사용자 지정",
+"自定义库存报告"
+],
+"Custom Report Builder": [
+"사용자 지정 보고서 작성기",
+"自定义报告生成器"
+],
+"Customer Journey Analytics": [
+"고객 여정 분석",
+"买家历程分析"
+],
+"Customer Loyalty Analytics": [
+"고객 충성도 분석",
+"买家忠诚度分析"
+],
+"Customer Product Reviews Policy Violations": [
+"고객 상품 리뷰 정책 위반",
+"违反买家商品评论政策"
+],
+"Customer Service Performance": [
+"고객 서비스 성과",
+"客户服务绩效"
+],
+"Customer Shipment Sales": [
+"고객 배송 판매",
+"已完成订单销售"
+],
+"Customer phone number privacy": [
+"고객 전화번호 정보 보호",
+"客户电话号码隐私性"
+],
+"Customers in Awareness": [
+"인지 단계의 고객",
+"处于品牌认知阶段的买家"
+],
+"Customers in Consideration": [
+"구매 고려 중인 고객",
+"正在考虑的买家"
+],
+"Customize": [
+"주문제작",
+"定制"
+],
+"DEFECTIVE": [
+"결함",
+"存在瑕疵"
+],
+"DISTRIBUTOR_DAMAGED": [
+"DISTRIBUTOR_DAMAGED(유통업체에 의한 파손)",
+"因分销商导致的残损"
+],
+"Daily at": [
+"매일",
+"每日"
+],
+"Data & events": [
+"데이터 및 이벤트",
+"数据与活动"
+],
+"Data manager": [
+"데이터 매니저",
+"数据管理器"
+],
+"Date Created: New to Old": [
+"생성 날짜: 최신순",
+"创建日期： 从新到旧"
+],
+"Date Created: Old to New": [
+"생성 날짜: 오래된 순",
+"创建日期： 从旧到新"
+],
+"Date Range Covered": [
+"적용된 날짜 범위",
+"涵盖的日期范围"
+],
+"Date and Time Completed": [
+"완료된 날짜 및 시간",
+"完成日期和时间"
+],
+"Date and Time Requested": [
+"요청한 날짜 및 시간",
+"请求的日期和时间"
+],
+"Date range": [
+"날짜 범위",
+"日期范围"
+],
+"Date range: Last 15 days": [
+"날짜 범위: 마지막 15일",
+"日期范围：过去15天"
+],
+"Date range: Last 2 days": [
+"날짜 범위: 마지막 2일",
+"日期范围：过去2天"
+],
+"Date range: Last 30 days": [
+"날짜 범위: 마지막 30일",
+"日期范围：过去30天"
+],
+"Date range: Last 60 days": [
+"날짜 범위: 마지막 60일",
+"日期范围：过去60天"
+],
+"Date range: Last 7 days": [
+"날짜 범위: 마지막 7일",
+"日期范围：过去7天"
+],
+"Date range: Last 90 days": [
+"날짜 범위: 마지막 90일",
+"日期范围：过去90天"
+],
+"Date range: Last day": [
+"날짜 범위: 마지막 날",
+"日期范围：最后一天"
+],
+"Declining in Awareness": [
+"인지 고객 감소",
+"认知阶段下降"
+],
+"Delete listing": [
+"리스팅 삭제",
+"删除商品信息"
+],
+"Demographics": [
+"인구 통계",
+"人口统计"
+],
+"Detailed view": [
+"상세 보기",
+"详细视图"
+],
+"Details": [
+"상세 내용",
+"详情"
+],
+"Dismiss": [
+"무시",
+"忽略"
+],
+"Display": [
+"디스플레이",
+"展示"
+],
+"Display, Video & Audio": [
+"디스플레이, 비디오 및 오디오",
+"展示、视频和音频"
+],
+"Disposition": [
+"처리",
+"库存属性"
+],
+"Download": [
+"다운로드",
+"下载"
+],
+"Download Manager": [
+"다운로드 관리자",
+"下载管理器"
+],
+"Download chat ▸ PDFTXTCSV": [
+"채팅 다운로드 ▸ PDFTXTCSV",
+"下载聊天记录 ▸ PDFTXTCSV"
+],
+"Drop off in Awareness": [
+"인지 고객 하락",
+"认知阶段放弃"
+],
+"EXPIRED": [
+"만료됨",
+"已过期"
+],
+"Edit listing": [
+"리스팅 편집",
+"编辑商品信息"
+],
+"Eligibilities": [
+"자격 요건",
+"资格条件"
+],
+"Enabled": [
+"활성화됨",
+"已启用"
+],
+"End date": [
+"종료 날짜",
+"结束日期"
+],
+"Estimated fees": [
+"예상 수수료",
+"预计费用"
+],
+"Event Date": [
+"이벤트 날짜",
+"事件日期"
+],
+"Events": [
+"이벤트",
+"事件"
+],
+"Every 15 minutes": [
+"15분마다",
+"每 15 分钟"
+],
+"Every 4 hours": [
+"4시간 간격",
+"每 4 个小时"
+],
+"Every 8 hours": [
+"매 8시간",
+"每 8 个小时"
+],
+"Every hour": [
+"1시간마다",
+"每小时"
+],
+"Exact dates": [
+"정확한 날짜",
+"确切日期"
+],
+"Explore programs": [
+"프로그램 탐색",
+"了解计划"
+],
+"Explore seller benefits": [
+"판매 개선",
+"创建商品推广广告"
+],
+"Explore services": [
+"서비스 탐색",
+"浏览服务"
+],
+"Explore with a canvas": [
+"캔버스 살펴보기",
+"使用画布进行浏览"
+],
+"Export": [
+"내보내기",
+"导出"
+],
+"FBA Customer Returns": [
+"FBA 고객 반품",
+"亚马逊物流买家退货"
+],
+"FBA Inventory": [
+"FBA 재고",
+"亚马逊物流库存"
+],
+"FBA customer return reports": [
+"FBA 고객 반품 보고서",
+"亚马逊物流买家退货报告"
+],
+"FBA customer returns": [
+"FBA 고객 반품",
+"亚马逊物流买家退货"
+],
+"FBA lost and damaged inventory reimbursement policy": [
+"FBA 분실 및 손상된 재고 보상 정책",
+"亚马逊物流丢失和已残损库存赔偿政策"
+],
+"FBM Orders": [
+"FBM 주문",
+"FBM 订单"
+],
+"FC": [
+"FC",
+"运营中心"
+],
+"Favorite": [
+"즐겨찾기",
+"收藏"
+],
+"Feedback": [
+"피드백",
+"反馈"
+],
+"Feedback report": [
+"피드백 보고서",
+"反馈报告"
+],
+"Feedback subject": [
+"피드백 제목",
+"反馈主题"
+],
+"Filter": [
+"필터",
+"筛选条件"
+],
+"Filter by": [
+"필터링 기준",
+"筛选条件"
+],
+"Finance": [
+"재무",
+"财务人员"
+],
+"Finance reports": [
+"재무 보고서",
+"财务报告"
+],
+"Food and Product Safety Issues": [
+"식품 및 상품 안전 문제",
+"食品和商品安全问题"
+],
+"Fri": [
+"금",
+"周五"
+],
+"From Date": [
+"시작일",
+"开始日期"
+],
+"Fulfillment Network SKU": [
+"주문 처리 네트워크 SKU",
+"FNSKU"
+],
+"Fulfillment center": [
+"주문 처리 센터",
+"亚马逊运营中心"
+],
+"Fulfillment network SKU (FNSKU)": [
+"주문 처리 네트워크 SKU(FNSKU)",
+"FNSKU"
+],
+"Full Funnel": [
+"풀 퍼널",
+"全流域"
+],
+"Generate Download": [
+"다운로드 생성",
+"生成下载项"
+],
+"Generate Report": [
+"보고서 생성",
+"生成报告"
+],
+"Get help and resourcesNew": [
+"도움말 및 리소스 받기",
+"获取帮助和资源"
+],
+"Go": [
+"이동",
+"前往"
+],
+"Go to FBA Analytics": [
+"FBA 분석으로 이동",
+"前往“亚马逊物流分析”"
+],
+"Help": [
+"도움말",
+"帮助"
+],
+"Help & FAQs": [
+"도움말 및 FAQ",
+"帮助和常见问题"
+],
+"Help Page": [
+"도움말 페이지",
+"帮助页面"
+],
+"Hide Seller Assistant": [
+"셀러 지원 담당자 숨기기",
+"隐藏卖家助手"
+],
+"Hide all": [
+"모두 숨기기",
+"隐藏全部"
+],
+"Hide links under Measurement & reporting": [
+"측정 및 보고 아래에 링크 숨기기",
+"隐藏效果衡量和报告下方的链接"
+],
+"High Volume Listings Report": [
+"대량 리스팅 보고서",
+"大批量商品报告"
+],
+"High impact products in the customer journey": [
+"고객 여정에서 영향력 높은 상품",
+"买家购物过程中的高影响力商品"
+],
+"Home": [
+"가정용품",
+"主页"
+],
+"How are my products performing?": [
+"내 상품은 어떻게 수행됩니까?",
+"我的商品绩效如何？"
+],
+"How satisfied are you with the features on this page?": [
+"이 페이지의 기능에 대해 어느 정도 만족하십니까?",
+"您对此页面上的功能的满意度如何？"
+],
+"How's my business?": [
+"내 비즈니스가 어떠합니까?",
+"我的业务怎么样？"
+],
+"Impressions": [
+"광고 노출 수",
+"展示次数"
+],
+"Inactive Listings Report": [
+"비활성 리스팅 보고서",
+"非在售商品报告"
+],
+"Inbound: High to Low": [
+"인바운드: 높은 순",
+"入库： 从高到低"
+],
+"Inbound: Low to High": [
+"인바운드: 낮은 순",
+"入库： 从低到高"
+],
+"Increase Returns Recovery": [
+"반품 회수율 향상",
+"提高退货回收率"
+],
+"Insights & planning": [
+"인사이트 및 계획",
+"洞察与规划"
+],
+"Intent": [
+"의도",
+"意向"
+],
+"Inventory": [
+"재고",
+"库存"
+],
+"Inventory Defect and Reimbursement Portal": [
+"재고 결함 및 환급 포털",
+"库存缺陷和"
+],
+"Inventory Discrepancy and Reimbursement Portal": [
+"재고 불일치 및 환급 포털",
+"库存差异和退款赔偿门户"
+],
+"Inventory Ledger": [
+"재고 원장",
+"库存分类账"
+],
+"Inventory Ledger Report": [
+"재고 원장 보고서",
+"库存分类帐报告"
+],
+"Inventory Ledger report help page": [
+"재고 원장 보고서 도움말 페이지",
+"库存分类账报告帮助页面"
+],
+"Inventory Ledger report: How to get the information you need": [
+"재고 원장 보고서: 필요한 정보를 얻는 방법",
+"库存分类账报告： 如何获取您需要的信息"
+],
+"Inventory Report": [
+"재고 보고서",
+"库存报告"
+],
+"Inventory Reports": [
+"재고 보고서",
+"库存报告"
+],
+"Last 14 days": [
+"지난 14일",
+"最近 14 天"
+],
+"Last 180 days": [
+"지난 180일",
+"最近 180 天"
+],
+"Last 3 days": [
+"지난 3일",
+"最近 3 天"
+],
+"Last 30 days": [
+"지난 30일",
+"最近 30 天"
+],
+"Last 365 days": [
+"지난 365일",
+"最近 365 天"
+],
+"Last 7 days": [
+"지난 7일",
+"最近 7 天"
+],
+"Last 90 days": [
+"지난 90일",
+"最近 90 天"
+],
+"Last updated": [
+"마지막 업데이트:",
+"最后更新时间"
+],
+"Late Shipment Rate": [
+"지연된 배송 비율",
+"迟发率"
+],
+"Learn about Campaign manager": [
+"캠페인 매니저에 대해 알아보기",
+"了解广告活动管理器"
+],
+"Learn more": [
+"자세히 알아보기",
+"了解更多信息"
+],
+"Leave Feedback": [
+"피드백 남기기",
+"发表反馈"
+],
+"Listing Policy Violations": [
+"목록 정책 위반",
+"上架政策违规"
+],
+"Listing status": [
+"리스팅 상태",
+"商品状态"
+],
+"Long-term contribution": [
+"장기 기여",
+"长期贡献"
+],
+"Long-term sales": [
+"장기 판매",
+"长期销售额"
+],
+"Low-Cost Store": [
+"저가 스토어",
+"低价商品店铺"
+],
+"Manage A+ content": [
+"A+ 콘텐츠 관리",
+"管理 A+ 商品描述"
+],
+"Manage Amazon inventory": [
+"아마존 재고 관리",
+"管理亚马逊库存"
+],
+"Manage account health": [
+"어카운트 헬스 관리",
+"管理账户状况"
+],
+"Manage channel destinations": [
+"채널 대상 관리",
+"管理渠道目的地"
+],
+"Manage claims": [
+"클레임 관리",
+"管理索赔"
+],
+"Manage compliance": [
+"규정 준수 관리",
+"管理合规性"
+],
+"Manage experiments": [
+"실험 관리",
+"管理试验"
+],
+"Manage global store": [
+"글로벌 스토어 관리",
+"管理海外购"
+],
+"Manage images": [
+"이미지 관리",
+"管理图片"
+],
+"Manage orders": [
+"주문 관리",
+"管理订单"
+],
+"Manage pricing": [
+"가격 관리",
+"管理定价"
+],
+"Manage products": [
+"상품 관리",
+"管理商品"
+],
+"Manage promotions and deals": [
+"프로모션 및 딜 관리",
+"管理促销和特惠"
+],
+"Manage quotes": [
+"견적 관리",
+"管理报价"
+],
+"Manage returns": [
+"반품 관리",
+"管理退货"
+],
+"Manage seller fulfilled inventory": [
+"셀러 주문 처리 재고 관리",
+"管理卖家自配送库存"
+],
+"Manage shipments": [
+"배송 관리",
+"管理货件"
+],
+"Manage support cases": [
+"지원 케이스 관리",
+"管理支持问题"
+],
+"Manage taxes": [
+"세금 관리",
+"管理税费"
+],
+"Manage transactions": [
+"거래 관리",
+"管理交易"
+],
+"Manage videos": [
+"동영상 관리",
+"管理视频"
+],
+"Market Basket Analysis": [
+"시장 구매액 분석",
+"购物篮分析"
+],
+"Marketing": [
+"마케팅",
+"营销推广"
+],
+"Measurement & reporting": [
+"측정 및 보고",
+"效果衡量和报告"
+],
+"Measurement & reporting Sponsored ads reports": [
+"측정 및 보고 스폰서 광고 보고서",
+"效果衡量和报告 搜索广告报告"
+],
+"Menu": [
+"메뉴",
+"菜单"
+],
+"Merchant": [
+"판매자",
+"卖家"
+],
+"Merchant SKU": [
+"판매자 SKU",
+"卖家 SKU"
+],
+"Merge duplicate product": [
+"중복 상품 병합",
+"合并重复商品"
+],
+"Messages": [
+"메시지",
+"消息"
+],
+"Metric Glossary": [
+"메트릭 용어집",
+"指标术语表"
+],
+"Mexico": [
+"멕시코",
+"墨西哥"
+],
+"Minimize panel": [
+"패널 최소화",
+"最小化面板"
+],
+"Mon": [
+"월",
+"周一"
+],
+"Monitor my performance": [
+"내 퍼포먼스 모니터링",
+"监控我的绩效"
+],
+"Monthly": [
+"월별",
+"每月"
+],
+"More": [
+"자세히",
+"更多"
+],
+"Multi-Channel Fulfillment Inventory": [
+"Multi-Channel Fulfillment Inventory",
+"多渠道配送库存"
+],
+"My business": [
+"내 비즈니스",
+"我的业务"
+],
+"Navigate back": [
+"뒤로 이동",
+"向后导航"
+],
+"Navigate forward": [
+"앞으로 이동",
+"向前导航"
+],
+"Negative feedback": [
+"부정적인 피드백",
+"负面反馈"
+],
+"New Seller Central": [
+"신규 셀러 센트럴",
+"新版卖家平台"
+],
+"New ad groups view": [
+"새 광고 그룹 보기",
+"新的广告组视图"
+],
+"New chat": [
+"새 채팅",
+"新聊天"
+],
+"New: Full-Funnel Campaigns": [
+"신규: 풀 퍼널 캠페인",
+"新功能：全流域广告活动"
+],
+"No action taken within the selected reporting range": [
+"선택한 보고 범위 내에서 취해진 조치 없음",
+"在所选报告范围内未采取任何操作"
+],
+"No actions required": [
+"필요한 조치 없음",
+"无需操作"
+],
+"North America": [
+"북미",
+"北美"
+],
+"Not used to it": [
+"사용되지 않음",
+"不习惯使用"
+],
+"Notification preferences": [
+"알림 기본 설정",
+"通知首选项"
+],
+"Ok, got it": [
+"확인",
+"好的，知道了"
+],
+"On-Time Delivery Rate": [
+"적시 배송율",
+"准时交货率"
+],
+"On-hand (FBA)": [
+"보유(FBA)",
+"现货（亚马逊物流）"
+],
+"Open Listings Report": [
+"판매 상품 보고서",
+"卖家自配送可售商品报告"
+],
+"Open Listings Report Lite": [
+"판매 상품 보고서 Lite",
+"卖家自配送可售商品报告精简版"
+],
+"Open Listings Report Liter": [
+"판매 상품 보고서 Liter",
+"卖家自配送可售商品报告极简版"
+],
+"Open full-page chat": [
+"전체 페이지 채팅 열기",
+"打开全页聊天"
+],
+"Open menu": [
+"메뉴 열기",
+"打开菜单"
+],
+"Open side navigation": [
+"측면 탐색 열기",
+"打开侧边导航栏"
+],
+"Open the help panel": [
+"도움말 패널 열기",
+"打开帮助面板"
+],
+"Options": [
+"옵션",
+"选项"
+],
+"Order Defect Rate": [
+"주문 하자 비율",
+"订单缺陷率"
+],
+"Order Defect Rate consists of three different metrics:": [
+"주문 하자 비율은 세 가지 메트릭으로 구성됩니다.",
+"订单缺陷率包含三个不同的指标："
+],
+"Order Reports": [
+"주문 보고서",
+"订单报告"
+],
+"Order reports": [
+"주문 보고서",
+"订单报告"
+],
+"Orders": [
+"주문",
+"订单"
+],
+"Orders settings": [
+"주문 설정",
+"订单设置"
+],
+"Orders with Defects": [
+"결함이 있는 주문",
+"存在缺陷的订单"
+],
+"Other": [
+"기타",
+"其他"
+],
+"Other Policy Violations": [
+"기타 정책 위반 사항",
+"其他违反政策"
+],
+"Out of stock": [
+"재고 품절",
+"缺货"
+],
+"Page": [
+"페이지",
+"页面"
+],
+"Page views: Highest on top": [
+"페이지 조회수: 가장 높은 순",
+"页面浏览量： 从高到低"
+],
+"Page views: Lowest on top": [
+"페이지 조회수: 가장 낮은 순",
+"页面浏览量： 从低到高"
+],
+"Pagination": [
+"페이지 번호",
+"分页"
+],
+"Partner Directory": [
+"파트너 디렉토리",
+"合作伙伴目录"
+],
+"Performance Over Time": [
+"시간별 퍼포먼스",
+"选定时间段绩效报告"
+],
+"Performance notifications": [
+"퍼포먼스 알림",
+"绩效通知"
+],
+"Pin chat": [
+"채팅 고정",
+"置顶聊天"
+],
+"Pinned": [
+"고정됨",
+"已置顶"
+],
+"Policy Compliance": [
+"정책 준수",
+"政策合规性"
+],
+"Portfolio name": [
+"포트폴리오 이름",
+"广告组合名称"
+],
+"Pre-fulfillment Cancel Rate": [
+"사전 이행 취소 비율",
+"配送前取消率"
+],
+"Prepare now for U.S. regulatory import changes": [
+"지금 미국 수입 규제 변경에 대비하십시오",
+"立即为美国进口监管变化做好准备"
+],
+"Price (Median)": [
+"가격(중간)",
+"商品价格（中位数）"
+],
+"Price and shipping cost": [
+"가격 및 배송비",
+"价格和运费"
+],
+"Price: High to Low": [
+"가격: 높음에서 낮음",
+"价格：由高到低"
+],
+"Price: Low to High": [
+"가격: 낮음에서 높음",
+"价格：由低到高"
+],
+"Primary Axis ■": [
+"기본 축 ■",
+"主轴 ■"
+],
+"Print item labels": [
+"상품 라벨 인쇄",
+"打印商品标签"
+],
+"Priority Actions": [
+"우선적으로 취해야 할 조치",
+"优先操作"
+],
+"Product Authenticity Customer Complaints": [
+"제품 신뢰성 고객 이의",
+"商品真实性买家投诉"
+],
+"Product Condition Customer Complaints": [
+"제품 상태 고객 불만 사항",
+"商品状况买家投诉"
+],
+"Product Policy Compliance": [
+"제품 정책 위반",
+"商品政策合规性"
+],
+"Product Title": [
+"상품 이름",
+"商品名称"
+],
+"Product details": [
+"상품 상세 내용",
+"商品详情"
+],
+"Product is not as described on the website": [
+"Product is not as described on the website",
+"商品与网站描述不符"
+],
+"Product reports": [
+"상품 보고서",
+"商品报告"
+],
+"Products": [
+"상품",
+"商品"
+],
+"Profit analytics": [
+"수익 분석",
+"利润分析"
+],
+"Program Policies": [
+"프로그램 정책",
+"计划政策"
+],
+"Programs and apps": [
+"프로그램 및 앱",
+"计划和应用程序"
+],
+"Prohibited seller activities and actions": [
+"금지된 셀러 활동 및 작업",
+"禁止的卖家活动和操作"
+],
+"Pssst. Got a second?": [
+"쉿. 잠깐 시간 있으십니까?",
+"嗨， 有空吗？"
+],
+"Purchase": [
+"구매",
+"购买"
+],
+"Purchase Rate": [
+"구매율",
+"购买率"
+],
+"Quarterly": [
+"분기별",
+"每季度"
+],
+"Rate this page": [
+"이 페이지 평가",
+"为此页评级"
+],
+"Reactivate listing": [
+"리스팅 재활성화",
+"重新启售商品"
+],
+"Received Intellectual Property Complaints": [
+"지적 재산권 관련 불만",
+"知识产权投诉"
+],
+"Recommendations": [
+"권장 사항",
+"建议"
+],
+"Recommended Actions": [
+"권장 조치",
+"建议操作"
+],
+"Referral Fee Discounts Report": [
+"상품 판매 수수료 할인 보고서",
+"销售佣金折扣报告"
+],
+"Referral Fee Preview Report": [
+"상품 판매 수수료 미리 보기 보고서",
+"销售佣金预览报告"
+],
+"Refine results": [
+"결과 세분화",
+"细化结果"
+],
+"Regulatory Compliance": [
+"규정 준수",
+"监管合规性"
+],
+"Reimbursement ID": [
+"상환 ID",
+"赔偿编号"
+],
+"Reimbursements": [
+"보상",
+"赔偿数量"
+],
+"Relist": [
+"재리스팅",
+"重新发布"
+],
+"Removal Shipment Detail": [
+"재고 처분 배송 상세 내용",
+"移除货件详情"
+],
+"Remove all": [
+"모두 제거",
+"删除所有"
+],
+"Rename chat": [
+"채팅 이름 바꾸기",
+"重命名聊天"
+],
+"Repeat Purchase Behavior": [
+"반복 구매 행동",
+"重复购买行为"
+],
+"Replacement reports": [
+"교환 보고서",
+"换货报告"
+],
+"Replacements": [
+"교환",
+"换货"
+],
+"Replenish inventory": [
+"재고 보충",
+"补货"
+],
+"Report Status": [
+"보고서 상태",
+"报告状态"
+],
+"Report Type": [
+"보고서 유형",
+"报告类型"
+],
+"Report abuse": [
+"악용 신고",
+"举报滥用亚马逊政策的行为"
+],
+"Reporting": [
+"보고",
+"报告"
+],
+"Reports": [
+"보고서",
+"报告"
+],
+"Reports marked as favorite will appear here": [
+"즐겨찾기로 표시된 보고서가 여기에 표시됩니다.",
+"标记为收藏的报告将在此处显示"
+],
+"Request .csv Download": [
+".csv 다운로드 요청",
+"请求下载 .csv 文件"
+],
+"Request .txt Download": [
+".txt 다운로드 요청",
+"请求 .txt 下载"
+],
+"Request Report": [
+"보고서 요청",
+"请求报告"
+],
+"Request an Inventory Report": [
+"재고 보고서 요청",
+"请求库存报告"
+],
+"Research products": [
+"연구 상품",
+"研究商品"
+],
+"Reserved: High to Low": [
+"예약됨: 높은 순",
+"预留： 从高到低"
+],
+"Reserved: Low to High": [
+"예약됨: 낮은 순",
+"预留： 从低到高"
+],
+"Resize Seller Assistant height": [
+"셀러 어시스턴트 높이 조정",
+"调整卖家助手高度"
+],
+"Resize Seller Assistant width": [
+"셀러 어시스턴트 폭 조정",
+"调整卖家助手宽度"
+],
+"Restricted Product Policy Violations": [
+"금지 제품 정책 위반",
+"违反受限商品政策"
+],
+"Reversed Reimbursement Help Page": [
+"환급 취소 도움말 페이지",
+"已取消退款赔偿\"帮助\"页面"
+],
+"Review errors": [
+"오류를 검토하십시오.",
+"查看错误"
+],
+"Review top long-term sales opportunities": [
+"상위 장기 판매 기회 검토",
+"查看重点长期销售机会"
+],
+"SELLABLE": [
+"판매 가능",
+"可售"
+],
+"SKU: A to Z": [
+"SKU: A부터 Z까지",
+"SKU： A 至 Z"
+],
+"SKU: Z to A": [
+"SKU: Z부터 A까지",
+"SKU： Z 至 A"
+],
+"Sales": [
+"매출",
+"销售额"
+],
+"Sales (new to brand)": [
+"매출(브랜드 신규 고객)",
+"销售额（品牌新客）"
+],
+"Sales (returning)": [
+"매출(반복 구매)",
+"销售额（复购）"
+],
+"Sales: Highest on top": [
+"매출: 가장 높은 순",
+"销量： 从高到低"
+],
+"Sales: Lowest on top": [
+"매출: 가장 낮은 순",
+"销量： 从低到高"
+],
+"Same Day Shipping Speed": [
+"당일 배송 속도",
+"当日达配送速度"
+],
+"Sat": [
+"토",
+"周六"
+],
+"Save": [
+"저장",
+"保存"
+],
+"Save changes": [
+"변경 사항 저장",
+"保存更改"
+],
+"Schedule": [
+"예약",
+"定期安排"
+],
+"Scheduled Report Settings": [
+"예약된 보고서 설정",
+"计划的订单报告设置"
+],
+"Search": [
+"검색",
+"搜索"
+],
+"Search Brand name": [
+"브랜드 이름 검색",
+"搜索品牌名称"
+],
+"Search Catalog Performance": [
+"카탈로그 퍼포먼스 검색",
+"搜索目录绩效"
+],
+"Search Frequency Rank": [
+"검색 빈도 순위",
+"搜索频率排名"
+],
+"Search Funnel - Cart Adds": [
+"검색 퍼널 - 장바구니 추가 횟수",
+"搜索漏斗 - 加入购物车的商品数量"
+],
+"Search Funnel - Clicks": [
+"검색 퍼널 - 클릭 수",
+"搜索漏斗 - 点击量"
+],
+"Search Funnel - Impressions": [
+"검색 퍼널 - 광고 노출 수",
+"搜索漏斗 - 展示次数"
+],
+"Search Funnel - Purchases": [
+"검색 퍼널 - 구매 횟수",
+"搜索漏斗 - 购买量"
+],
+"Search Query": [
+"검색 쿼리",
+"搜索查询"
+],
+"Search Query Performance": [
+"검색 쿼리 퍼포먼스",
+"搜索查询绩效"
+],
+"Search Query Score": [
+"검색 쿼리 점수",
+"搜索查询得分"
+],
+"Search Query Volume": [
+"검색 쿼리 볼륨",
+"搜索查询量"
+],
+"Search QuerySelect a query to learn more": [
+"검색 쿼리자세히 알아보려면 쿼리를 선택하세요.",
+"搜索查询选择一个查询以了解更多信息"
+],
+"Search Term": [
+"검색어",
+"搜索词"
+],
+"Search Traffic Sales": [
+"검색 트래픽 판매량",
+"搜索流量销售额"
+],
+"Search by keyword": [
+"키워드로 검색",
+"按关键词搜索"
+],
+"Search by name or ID": [
+"이름 또는 ID별로 검색",
+"按名称或编号搜索"
+],
+"Search for anything": [
+"무엇이나 검색",
+"搜索任何内容"
+],
+"Search reports": [
+"보고서 검색",
+"搜索报告"
+],
+"Search up to 100 ASIN(s)": [
+"최대 100개의 ASIN 검색",
+"搜索最多 100 个 ASIN"
+],
+"Search with metrics or settings": [
+"지표 또는 설정으로 검색",
+"使用指标或设置进行搜索"
+],
+"Secondary Axis ●": [
+"보조 축 ●",
+"次轴 ●"
+],
+"See all": [
+"모두 보기",
+"查看全部"
+],
+"See more": [
+"더 보기",
+"查看更多"
+],
+"See my notifications": [
+"내 알림 보기",
+"查看我的通知"
+],
+"See the full migration timeline": [
+"전체 마이그레이션 일정 보기",
+"查看完整的迁移时间表"
+],
+"Select a metric": [
+"메트릭 선택",
+"选择指标"
+],
+"Select all": [
+"모두 선택",
+"全选"
+],
+"Select rows to enable bulk actions.": [
+"일괄 조치를 활성화하려면 행을 선택합니다.",
+"选择行以启用批量操作。"
+],
+"Sell globally": [
+"글로벌 셀링",
+"全球开店"
+],
+"Seller Assistant": [
+"셀러 지원 담당자",
+"卖家助手"
+],
+"Seller Central": [
+"셀러 센트럴",
+"卖家平台"
+],
+"Seller Fulfilled": [
+"판매자 이행",
+"卖家自配送"
+],
+"Seller Support": [
+"셀링 파트너 서포트",
+"销售伙伴支持"
+],
+"Seller University": [
+"셀러 유니버시티",
+"卖家大学"
+],
+"Seller fulfilled reports": [
+"셀러 주문 처리 보고서",
+"卖家自配送报告"
+],
+"Seller fulfilled return reports": [
+"셀러 주문 처리 반품 보고서",
+"卖家自配送退货报告"
+],
+"Seller-Fulfilled Exports Eligibility Report": [
+"셀러 주문 처리 수출 자격 보고서",
+"卖家自配送出口资格报告"
+],
+"Selling partner appstore": [
+"셀링 파트너 앱스토어",
+"销售伙伴应用商店"
+],
+"Send or replenish inventory": [
+"재고 발송 또는 보충",
+"发/补货"
+],
+"Send to Amazon": [
+"아마존으로 발송",
+"Send to Amazon"
+],
+"Set": [
+"설정",
+"设置"
+],
+"Set Account access & settings as your homepage": [
+"계정 액세스 및 설정을 홈페이지로 설정",
+"将账户访问和设置设为首页"
+],
+"Set Ads planner as your homepage": [
+"광고 플래너을 홈페이지로 설정",
+"将广告策划工具设为首页"
+],
+"Set Amazon Attribution as your homepage": [
+"아마존 어트리뷰션을 홈페이지로 설정",
+"将亚马逊引流洞察设为首页"
+],
+"Set Amazon Marketing Cloud as your homepage": [
+"아마존 마케팅 클라우드을 홈페이지로 설정",
+"将亚马逊营销云设为首页"
+],
+"Set Billing as your homepage": [
+"청구을 홈페이지로 설정",
+"将账单设为首页"
+],
+"Set Brand Stores as your homepage": [
+"브랜드 스토어을 홈페이지로 설정",
+"将品牌旗舰店设为首页"
+],
+"Set Brand impression share as your homepage": [
+"브랜드 노출 점유율을 홈페이지로 설정",
+"将品牌展示量份额设为首页"
+],
+"Set Brand lift studies as your homepage": [
+"브랜드 광고 효과 연구을 홈페이지로 설정",
+"将品牌提升洞察研究设为首页"
+],
+"Set Brand metrics as your homepage": [
+"브랜드 메트릭을 홈페이지로 설정",
+"将品牌指标设为首页"
+],
+"Set Brand profiles as your homepage": [
+"브랜드 프로필을 홈페이지로 설정",
+"将品牌档案设为首页"
+],
+"Set Campaigns as your homepage": [
+"캠페인을 홈페이지로 설정",
+"将广告活动设为首页"
+],
+"Set Creative Studio as your homepage": [
+"크리에이티브 스튜디오을 홈페이지로 설정",
+"将创意工作室设为首页"
+],
+"Set Creative assets as your homepage": [
+"크리에이티브 애셋을 홈페이지로 설정",
+"将创意素材设为首页"
+],
+"Set Data manager as your homepage": [
+"데이터 매니저을 홈페이지로 설정",
+"将数据管理器设为首页"
+],
+"Set Events as your homepage": [
+"이벤트을 홈페이지로 설정",
+"将事件设为首页"
+],
+"Set Recommendations as your homepage": [
+"권장 사항을 홈페이지로 설정",
+"将建议设为首页"
+],
+"Set Reporting as your homepage": [
+"보고을 홈페이지로 설정",
+"将报告设为首页"
+],
+"Set Sponsored ads reports as your homepage": [
+"스폰서 광고 보고서을 홈페이지로 설정",
+"将搜索广告报告设为首页"
+],
+"Set Translations as your homepage": [
+"번역을 홈페이지로 설정",
+"将翻译设为首页"
+],
+"Set Verification Center as your homepage": [
+"인증 센터을 홈페이지로 설정",
+"将验证中心设为首页"
+],
+"Set replenishment alerts": [
+"재고 보충 알림 설정",
+"设置补货提醒"
+],
+"Set up promotions, ads and inventory for Black Friday": [
+"블랙프라이데이를 위한 프로모션, 광고 및 재고 설정하기",
+"为黑色星期五设置促销、广告和库存"
+],
+"Settings": [
+"설정",
+"设置"
+],
+"Share Feedback": [
+"피드백 공유",
+"分享反馈"
+],
+"Shipping Performance": [
+"배송 성과",
+"配送绩效"
+],
+"Shoppers want these items": [
+"쇼핑객은 이런 품목을 원합니다.",
+"顾客想要购买这些商品"
+],
+"Show all": [
+"모두 보기",
+"显示全部"
+],
+"Show links under Administration": [
+"관리 아래에 링크 표시하기",
+"在管理下方显示链接"
+],
+"Show links under Brand content": [
+"브랜드 콘텐츠 아래에 링크 표시하기",
+"在品牌内容下方显示链接"
+],
+"Show links under Create campaign": [
+"캠페인 생성하기 아래에 링크 표시하기",
+"在创建广告活动下方显示链接"
+],
+"Show links under Creative tools": [
+"크리에이티브 도구 아래에 링크 표시하기",
+"在创意工具下方显示链接"
+],
+"Show links under Data & events": [
+"데이터 및 이벤트 아래에 링크 표시하기",
+"在数据与活动下方显示链接"
+],
+"Show links under Insights & planning": [
+"인사이트 및 계획 아래에 링크 표시하기",
+"在洞察与规划下方显示链接"
+],
+"Show links under Measurement & reporting": [
+"측정 및 보고 아래에 링크 표시하기",
+"在效果衡量和报告下方显示链接"
+],
+"Show links under Tools & resources": [
+"도구 및 리소스 아래에 링크 표시하기",
+"在工具和资源下方显示链接"
+],
+"Show more...": [
+"더 보기...",
+"显示更多..."
+],
+"Site map": [
+"사이트 맵",
+"站点地图"
+],
+"Skip to main content": [
+"기본 콘텐츠로 건너뛰기",
+"跳至主要内容"
+],
+"Sponsored Brands": [
+"Sponsored Brands",
+"品牌推广"
+],
+"Sponsored Products": [
+"Sponsored Products",
+"商品推广"
+],
+"Sponsored ads reports": [
+"스폰서 광고 보고서",
+"搜索广告报告"
+],
+"Sponsored ads reports are being discontinued": [
+"스폰서 광고 보고서는 중단되었습니다",
+"搜索广告报告将停用"
+],
+"Start date": [
+"시작 날짜",
+"开始日期"
+],
+"Start migration": [
+"마이그레이션 시작",
+"开始迁移"
+],
+"Status": [
+"상태",
+"状态"
+],
+"Status: Ascending": [
+"상태: 오름차순",
+"状态： 升序"
+],
+"Status: Descending": [
+"상태: 내림차순",
+"状态： 降序"
+],
+"Store": [
+"스토어",
+"店铺"
+],
+"Streaming TV": [
+"스트리밍 TV",
+"流媒体电视"
+],
+"Submit": [
+"제출",
+"提交"
+],
+"Submit request": [
+"요청 제출",
+"提交请求"
+],
+"Suggestion": [
+"제안 사항",
+"建议"
+],
+"Summary view": [
+"요약 보기",
+"一览视图"
+],
+"Sun": [
+"일",
+"周日"
+],
+"Supply chain": [
+"공급망",
+"供应链"
+],
+"Supply chain console": [
+"공급망 콘솔",
+"供应链控制面板"
+],
+"Supply chain reports": [
+"공급망 보고서",
+"供应链报告"
+],
+"Suspected Intellectual Property Violations": [
+"지적 재산권 위반으로 의심되는 사항",
+"涉嫌侵犯知识产权"
+],
+"Technical issue": [
+"기술 문제",
+"技术问题"
+],
+"Technical issues": [
+"기술 문제",
+"技术问题"
+],
+"Thu": [
+"목",
+"周四"
+],
+"Title/Keyword": [
+"타이틀/키워드",
+"商品名称/关键字"
+],
+"Title: A to Z": [
+"타이틀: A - Z",
+"商品名称： 从 A 到 Z"
+],
+"Title: Z to A": [
+"타이틀: Z - A",
+"商品名称： 从 Z 到 A"
+],
+"To Date": [
+"종료일",
+"结束日期"
+],
+"Tools & resources": [
+"도구 및 리소스",
+"工具和资源"
+],
+"Top ASINs by Impressions": [
+"광고 노출 수별 상위 ASIN",
+"按展示次数排名的热门 ASIN"
+],
+"Top Clicked Brands": [
+"클릭 수가 가장 많은 상위 브랜드",
+"点击量最高的品牌"
+],
+"Top Clicked Categories": [
+"클릭 수가 가장 많은 상위 카테고리",
+"点击量最高的分类"
+],
+"Top Clicked Product #1": [
+"최상위 클릭 상품 1위",
+"点击量第一的商品"
+],
+"Top Clicked Product #2": [
+"최상위 클릭 상품 2위",
+"点击量第二的商品"
+],
+"Top Clicked Product #3": [
+"최상위 클릭 상품 3위",
+"点击量第三的商品"
+],
+"Top Search Queries": [
+"상위 검색 쿼리",
+"热门搜索查询"
+],
+"Top Search Terms": [
+"최상위 검색어",
+"热门搜索词"
+],
+"Total Count": [
+"총 개수",
+"总计"
+],
+"Total cost": [
+"총 비용",
+"总成本"
+],
+"Total fees": [
+"총 수수료",
+"总费用"
+],
+"Translations": [
+"번역",
+"翻译"
+],
+"Trending Products": [
+"인기 있는 상품",
+"热门商品"
+],
+"Tue": [
+"화",
+"周二"
+],
+"Type": [
+"유형",
+"类型"
+],
+"UNSELLABLE_OTHER": [
+"UNSELLABLE_OTHER(판매 불가 기타)",
+"其他不可售情况"
+],
+"Undock panel": [
+"패널 도크 해제",
+"取消固定面板"
+],
+"Unfulfillable: High to Low": [
+"주문 처리 불가: 높은 순",
+"不可售： 从高到低"
+],
+"Unfulfillable: Low to High": [
+"주문 처리 불가: 낮은 순",
+"不可售： 从低到高"
+],
+"Ungroup variation family": [
+"선택사항 상품군 분리",
+"取消变体系列分组"
+],
+"United States": [
+"미국",
+"美国"
+],
+"Units sold: Highest on top": [
+"판매량: 가장 높은 순",
+"售出商品数量： 从高到低"
+],
+"Units sold: Lowest on top": [
+"판매량: 가장 낮은 순",
+"售出商品数量： 从低到高"
+],
+"Unpin chat": [
+"채팅 고정 해제",
+"取消置顶聊天"
+],
+"Unwanted item": [
+"원치 않는 아이템",
+"不想要了"
+],
+"Valid Tracking Rate": [
+"유효 추적율",
+"有效追踪率"
+],
+"Variation family:": [
+"선택사항 상품군:",
+"变体系列:"
+],
+"Verification Center": [
+"인증 센터",
+"验证中心"
+],
+"View 10 rows": [
+"10개 행 보기",
+"查看 10 行"
+],
+"View 100 rows": [
+"100개 행 보기",
+"查看 100 行"
+],
+"View 25 rows": [
+"25개 행 보기",
+"查看 25 行"
+],
+"View 50 rows": [
+"50개 행 보기",
+"查看 50 行"
+],
+"View Details": [
+"상세 내용 보기",
+"查看详情"
+],
+"View Online": [
+"온라인으로 보기",
+"在线查看"
+],
+"View as data table, Chart": [
+"데이터 테이블 차트(으)로 보기",
+"以数据表的形式查看，图表"
+],
+"View chart only": [
+"차트만 보기",
+"仅查看图表"
+],
+"View details": [
+"세부 정보 보기",
+"查看详情"
+],
+"View downloads": [
+"다운로드 내역 보기",
+"查看下载"
+],
+"View long-term contribution": [
+"장기 기여 보기",
+"查看长期贡献"
+],
+"View message": [
+"메시지 보기",
+"查看消息"
+],
+"View online report": [
+"온라인 보고서 보기",
+"查看在线报告"
+],
+"View preset campaign": [
+"사전 설정된 캠페인 보기",
+"查看预先设置的广告活动"
+],
+"View product tour": [
+"상품 둘러보기 표시",
+"查看商品演示"
+],
+"View reference prices": [
+"참조 가격 보기",
+"查看参考价"
+],
+"View selling applications": [
+"판매 신청 보기",
+"查看销售申请"
+],
+"View shipping eligibilities here": [
+"여기에서 배송 자격 보기",
+"在此处查看配送资格"
+],
+"View: Default": [
+"조회수: 기본값",
+"视图：默认"
+],
+"Voice of the Customer": [
+"고객의 소리",
+"买家之声"
+],
+"WAREHOUSE_DAMAGED": [
+"WAREHOUSE_DAMAGED(창고에 의한 파손)",
+"在库房出现残损"
+],
+"Wed": [
+"수",
+"周三"
+],
+"Weekly": [
+"주별",
+"每周"
+],
+"Welcome to Reports": [
+"보고서 시작",
+"欢迎使用“报告”"
+],
+"What is your feedback?": [
+"귀하의 피드백은 무엇입니까?",
+"您的反馈是什么？"
+],
+"What's new": [
+"새로운 소식",
+"新增内容"
+],
+"Which marketplaces are you interested in?": [
+"어떤 마켓플레이스에 관심이 있으세요?",
+"您对哪些商城感兴趣？"
+],
+"Why are you leaving?": [
+"떠나는 이유는 무엇입니까?",
+"您为何退出？"
+],
+"Workspace": [
+"작업장",
+"工作区"
+],
+"Your preferences": [
+"기본 설정",
+"偏好设置"
+],
+"clear": [
+"지우기",
+"清除"
+],
+"close": [
+"닫기",
+"关闭"
+],
+"dismiss": [
+"무시",
+"忽略"
+],
+"e.g. Japan, Australia, Brazil": [
+"예: 일본, 오스트레일리아, 브라질",
+"例如，日本、澳大利亚和巴西"
+],
+"last day (yesterday)": [
+"어제",
+"前一天（昨天）"
+],
+"open dropdown": [
+"드롭다운 열기",
+"打开下拉菜单"
+],
+"see more": [
+"더 보기",
+"查看更多"
+]
+}

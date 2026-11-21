@@ -1,0 +1,8 @@
+browser_profile/
+__pycache__/
+*.pyc
+.venv/
+# 보고서에는 판매 데이터와 화면 캡처가 들어 있음
+reports/
+# 버전 패키지(zip)
+releases/
