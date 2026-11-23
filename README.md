@@ -2,6 +2,10 @@
 
 현재 버전: **v1.2.0** (버전 번호 규칙·기록은 맨 아래 ‘버전 기록’)
 
+## 다운로드
+
+**[최신 버전 다운로드 (SellerMorning.zip)](https://github.com/toolboxnotes/seller-morning/releases/latest/download/SellerMorning.zip)** — 링크는 항상 최신 버전 파일입니다. 특정 버전이 필요하면 [Releases](https://github.com/toolboxnotes/seller-morning/releases)에서 `SellerMorning_v버전_날짜.zip`을 받습니다. 압축을 푼 뒤 아래 순서로 설치합니다.
+
 ## 처음 설치 · 실행(Windows / Mac)
 
 | | Windows 10·11 | macOS |
