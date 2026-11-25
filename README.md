@@ -6,6 +6,14 @@
 
 **[최신 버전 다운로드 (SellerMorning.zip)](https://github.com/toolboxnotes/seller-morning/releases/latest/download/SellerMorning.zip)** — 링크는 항상 최신 버전 파일입니다. 특정 버전이 필요하면 [Releases](https://github.com/toolboxnotes/seller-morning/releases)에서 `SellerMorning_v버전_날짜.zip`을 받습니다. 압축을 푼 뒤 아래 순서로 설치합니다.
 
+
+## 관련 글 (Toolbox Notes 블로그)
+
+- [아마존 셀러 하루 루틴: 매일·매주·매월 점검과 안전한 자동화](https://toolboxnotes.com/ko/posts/amazon-seller-daily-routine/) · [English](https://toolboxnotes.com/en/posts/amazon-seller-daily-routine/)
+- [아마존 셀러 센트럴 리포트 보는 법](https://toolboxnotes.com/ko/posts/amazon-seller-central-reports/) · [English](https://toolboxnotes.com/en/posts/amazon-seller-central-reports/)
+- [FBA 수수료 계산기 사용법과 2027년 아마존 요금](https://toolboxnotes.com/ko/posts/amazon-fba-fee-calculator-guide/) · [English](https://toolboxnotes.com/en/posts/amazon-fba-fee-calculator-guide/)
+- [아마존 셀러 등록 방법 (한국에서 가입)](https://toolboxnotes.com/ko/posts/amazon-seller-1-getting-started/) · [English](https://toolboxnotes.com/en/posts/amazon-seller-1-getting-started/)
+
 ## 처음 설치 · 실행(Windows / Mac)
 
 | | Windows 10·11 | macOS |
